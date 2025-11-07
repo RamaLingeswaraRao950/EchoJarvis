@@ -2,7 +2,7 @@
 
 **EchoJarvis** is a modern **text-to-speech desktop assistant**. It lets users **type or paste any text**, choose from **multiple AI voices**, and **instantly listen** to lifelike speech with a sleek, animated interface.  
 
-🚀 Fast, responsive, and powered by modern text-to-speech technology — it’s your personal **AI voice companion**!  
+🚀 Fast, responsive, and powered by modern text-to-speech technology — it’s your personal **AI voice companion** !  
 
 ---
 
@@ -36,18 +36,18 @@
 
 ### ⚙️ Installation & Setup :--
 
-### 1️⃣ Clone the Repository :
+1️⃣ Clone the Repository :
 ```bash
 git clone 
 cd EchoJarvis
 ```
 
-### 2️⃣ Install Required Libraries :
+2️⃣ Install Required Libraries :
 ```bash
 pip install edge-tts pygame
 ```
 
-### 3️⃣ Run the Application :
+3️⃣ Run the Application :
 ```bash
 python echojarvis.py
 ```
@@ -84,23 +84,6 @@ history/spoken_texts.txt
 
 ---
 
-### 🔮 Future Enhancements :--
-
-- 🚀 Add real-time voice input (speech-to-speech conversion)
-- 🗂️ Export history to PDF or CSV
-- 🎨 Add Light/Dark mode toggle
-- 🤖 Add AI-generated voice emotion control
-
----
-
-### 👨‍💻 Author :--
-
-- Rama Lingeswara Rao Sivakavi
-- 🔊 Built with Python, creativity, and a passion for smart voice technology.
-- 💬 “Speak Freely. Hear Instantly.”
-
----
-
 ### 🧠 Acknowledgments :--
 
 🎵 Pygame
@@ -114,3 +97,11 @@ history/spoken_texts.txt
 ### ⭐ Support :--
 
 If you like EchoJarvis, please ⭐ star this repository — your support keeps innovation alive! 🚀
+
+---
+
+👨‍💻 Author :--
+
+- Rama Lingeswara Rao Sivakavi
+- 🔊 Built with Python, creativity, and a passion for smart voice technology.
+- 💬 “Speak Freely. Hear Instantly.”
