@@ -1,6 +1,6 @@
 # 🎙️ EchoJarvis 💬
 
-**EchoJarvis** is a modern **text-to-speech desktop assistant**. It lets users **type or paste any text**, choose from **multiple AI voices**, and **instantly listen** to lifelike speech with a sleek, animated interface. Fast, responsive, and powered by modern text-to-speech technology — it’s your personal **AI voice companion** !  
+**EchoJarvis** is a **text-to-speech desktop assistant**. It lets users **type or paste any text**, choose from **multiple AI voices**, and **instantly listen** to lifelike speech with a sleek, animated interface. Fast, responsive, and powered by text-to-speech technology — it’s your personal **AI voice companion** !  
 
 ---
 
@@ -100,6 +100,6 @@ If you like EchoJarvis, please ⭐ star this repository — your support keeps i
 
 👨‍💻 Author :--
 
-- Rama Lingeswara Rao Sivakavi
+- Rama Lingeswara Rao
 - 🔊 Built with Python, creativity, and a passion for smart voice technology.
 - 💬 “Speak Freely. Hear Instantly.”
